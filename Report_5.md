@@ -1,96 +1,64 @@
-**Activities Report Decred en Español Proposal 2 from October 8th to November 8th**
+**Activities Report 5 Decred en Español Proposal 2 from October 8th to November 8th**
 
-**Events:**
+**Virtual Events:**
 
--  
-  - [Twitter announcement]() 
-  - [Youtube]()
+-  October 15th #HablemosDecred 17 “21 Heads crypto art show” with GusG, Jose Rodriguez and Aaron Koening ([Twitter announcement](https://twitter.com/Decred_ES/status/1315712600240467969), [Youtube](https://www.youtube.com/watch?v=b89-CTM0bYk))
 
-- 
-  - [Twitter announcement]()
-  - [Youtube]()
+- October 17th Introduction to Blockchain and Decred API ([Twitter announcement](https://twitter.com/Decred_ES/status/1317536322630914051), [Youtube](https://www.youtube.com/watch?v=XSmdwWykmSo))
 
--  
-  - [Youtube](https://youtu.be/On2zYc7BrvI?t=14942)
-  - [Twitter announcement]()
-  - [Twitter](https://twitter.com/addcade/status/1285282080780255233)
-  - [Blockchain Land]()
+-  October 22 #HablemosDecred 18 “What is Decred” with Ana Chavez and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1318634345918320640), [Youtube](https://www.youtube.com/watch?v=rjfYxi6CXyI&t))
+ 
+-  October 29 #HablemosDecred 19 “Bitcoin in real life” with Ana Chavez and Manuel Flores from Bitcoin Monterrey ([Twitter announcement](https://twitter.com/Decred_ES/status/1321166522367283200, [Youtube](https://www.youtube.com/watch?v=ok9TVEXF8mM&feature=youtu.be))
 
-- 
-  - [Twitter announcement]()
-  - [Youtube]()
+-  November 2th Blockchain Summit Latam keynote “Governance in public protocols) ([Twitter announcement](https://twitter.com/BlockSummitLA/status/1323302427651657733), [Twitter](https://twitter.com/BlockSummitLA/status/1323302480537673730))
 
--  
-  - [Twitter announcement]()
-  - [Twitter announcement Blockchain Summit Latam]()
+-  November 3th Decred Talent Land Blockchain Learning Challenge announcement ([Twitter announcement](https://twitter.com/Decred_ES/status/1323737929429245955))
 
--  
-  - [Twitter announcement]()
-  - [Youtube]() 
+- November 5th #HablemosDecred 20 “Cryptocurrencies, blockchain and journalism” with Fernando Quiros from Cointelegraph in Spanish ([Twitter announcement](https://twitter.com/Decred_ES/status/1323671501212684288), [Youtube](https://www.youtube.com/watch?v=V1tl600djBA&t=1s&pbjreload=101))
 
 **Videos:**
 
--  
-  - [Twitter announcement]()
-  - [Youtube](https://www.youtube.com/watch?v=DdisxhEBUkM)
+-  October 12th Introduction to DCR with Pablo Labarta ([Youtube](https://www.youtube.com/watch?v=S2SeVZqnO9A))
 
-- 
-  - [Twitter announcement]()
+-  November 8th “Lightning Network and more news” on Decredizados with Victor Rubin ([Youtube](https://www.youtube.com/watch?v=9HEo7MpuX4U))
 
--  
-  - [Twitter announcement]() 
-  - [Youtube]()
+-  November —- ([Youtube]())
 
 **Social Media Content:**
 
--  
-  - [Twitter]()  
+-  October 7th Introduction to Blockchain and Decred API ([Twitter](https://twitter.com/Decred_ES/status/1315123106839703552))
 
--  
-  - [Twitter announcement]() 
+-  October 10th messaging proposals on Politeia ([Twitter](https://twitter.com/Decred_ES/status/1314958081126805505))
   - [Medium]() 
 
--  
-  - [Twitter announcement]() 
-  - [Medium]()
+-  October 15th Python web mining scholarship to participant in Introduction to Blockchain and Decred API ([Twitter announcement](https://twitter.com/Decred_ES/status/1316751279000035332)) 
 
--  
-  - [Twitter]() 
+-  October 19th announcement 1000 followers on @Decred_ES twitter ([Twitter](https://twitter.com/Decred_ES/status/1318276054818148355)) 
 
--  
-  - [Twitter announcement]() 
-  - [Medium]() 
+-  October 25th Decred in Spanish Podcast episode 2 ([Twitter announcement](https://twitter.com/Decred_ES/status/1320497346556297216), [Spotify](https://open.spotify.com/show/7kZwB0fobWzZk7peEjypYf)) 
 
--  
-  - [Twitter]()
+- October 25 Decred Journal September Spanish translation  ([Medium](https://medium.com/decred-es/revista-decred-septiembre-2020-476f2d584c08), [Twitter](https://twitter.com/
 
--  
-  - [Twitter]() 
+-  October 26th Atomic Swaps thread ([Twitter](https://twitter.com/Decred_ES/status/1320736772427571206))
 
--  
-  - [Twitter announcement]() 
-  - [Youtube]()
-
+-  October 26th DCRDEX installation thread and translation ([Medium](https://medium.com/decred-es/c%C3%B3mo-instalar-y-usar-dcrdex-93c59d96f176), [Twitter](https://twitter.com/Decred_ES/status/1320844859910094848))
 
 **News and mentions:**
 
-- 
-  - [Cointelegraph en Español]()
+-   October 13th “21 Heads Crypto art Show: exploring the intersection of art and cryptocurrences”([Cointelegraph en Español](https://es.cointelegraph.com/news/21-heads-crypto-art-show-they-will-analyze-the-intersection-between-art-and-cryptocurrencies))
 
-- 
-  - [Twitter]()
+-   October 20th “What are the coming releases planned in Decred ecosystem?”([Cointelegraph en Español](https://es.cointelegraph.com/news/what-new-launches-are-planned-by-the-decred-ecosystem))
 
--  
-  - [Cointelegraph en Español]()
+-   October 28th “New edition of #HablemosDecred will explore the state of cryptocurrencies in Mexico”([Cointelegraph en Español](https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-cryptomontages-in-mexico))
 
-**Business Development conversation:**
+-   November 2nd “Next edition of #HablemosDecred will explore the intersection of cryptocurrencies and journalism”([Cointelegraph en Español](https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-focus-on-linking-the-media-with-crypto))
 
-- 
+-   November 2nd “Blockchain Summit Latam 2020: exploring governance characteristics on public protocols” ([Cointelegraph en Español](https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols))
 
 **Next steps:**
 
-- 
-
 - Growing new Telegram group for developers
+
+- 
 
 
