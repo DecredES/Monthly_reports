@@ -8,7 +8,7 @@
 
 -  October 22 #HablemosDecred 18 “What is Decred” with Ana Chavez and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1318634345918320640), [Youtube](https://www.youtube.com/watch?v=rjfYxi6CXyI&t))
  
--  October 29 #HablemosDecred 19 “Bitcoin in real life” with Ana Chavez and Manuel Flores from Bitcoin Monterrey ([Twitter announcement](https://twitter.com/Decred_ES/status/1321166522367283200, [Youtube](https://www.youtube.com/watch?v=ok9TVEXF8mM&feature=youtu.be))
+-  October 29 #HablemosDecred 19 “Bitcoin in real life” with Ana Chavez and Manuel Flores from Bitcoin Monterrey ([Twitter announcement](https://twitter.com/Decred_ES/status/1321166522367283200), [Youtube](https://www.youtube.com/watch?v=ok9TVEXF8mM&feature=youtu.be))
 
 -  November 2th Blockchain Summit Latam keynote “Governance in public protocols) ([Twitter announcement](https://twitter.com/BlockSummitLA/status/1323302427651657733), [Twitter](https://twitter.com/BlockSummitLA/status/1323302480537673730))
 
@@ -29,7 +29,6 @@
 -  October 7th Introduction to Blockchain and Decred API ([Twitter](https://twitter.com/Decred_ES/status/1315123106839703552))
 
 -  October 10th messaging proposals on Politeia ([Twitter](https://twitter.com/Decred_ES/status/1314958081126805505))
-  - [Medium]() 
 
 -  October 15th Python web mining scholarship to participant in Introduction to Blockchain and Decred API ([Twitter announcement](https://twitter.com/Decred_ES/status/1316751279000035332)) 
 
@@ -45,19 +44,19 @@
 
 **News and mentions:**
 
--   October 13th “21 Heads Crypto art Show: exploring the intersection of art and cryptocurrences”([Cointelegraph en Español](https://es.cointelegraph.com/news/21-heads-crypto-art-show-they-will-analyze-the-intersection-between-art-and-cryptocurrencies))
+-   October 13th “21 Heads Crypto art Show: exploring the intersection of art and cryptocurrences”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/21-heads-crypto-art-show-they-will-analyze-the-intersection-between-art-and-cryptocurrencies))
 
--   October 20th “What are the coming releases planned in Decred ecosystem?”([Cointelegraph en Español](https://es.cointelegraph.com/news/what-new-launches-are-planned-by-the-decred-ecosystem))
+-   October 20th “What are the coming releases planned in Decred ecosystem?”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/what-new-launches-are-planned-by-the-decred-ecosystem))
 
--   October 28th “New edition of #HablemosDecred will explore the state of cryptocurrencies in Mexico”([Cointelegraph en Español](https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-cryptomontages-in-mexico))
+-   October 28th “New edition of #HablemosDecred will explore the state of cryptocurrencies in Mexico”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-cryptomontages-in-mexico))
 
--   November 2nd “Next edition of #HablemosDecred will explore the intersection of cryptocurrencies and journalism”([Cointelegraph en Español](https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-focus-on-linking-the-media-with-crypto))
+-   November 2nd “Next edition of #HablemosDecred will explore the intersection of cryptocurrencies and journalism”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-focus-on-linking-the-media-with-crypto))
 
--   November 2nd “Blockchain Summit Latam 2020: exploring governance characteristics on public protocols” ([Cointelegraph en Español](https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols))
+-   November 2nd “Blockchain Summit Latam 2020: exploring governance characteristics on public protocols” ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols))
 
 **Next steps:**
 
-- Growing new Telegram group for developers
+- Growing Telegram group for developers
 
 - 
 
