@@ -14,7 +14,9 @@
 
 -  November 3th Decred Talent Land Blockchain Learning Challenge announcement ([Twitter announcement](https://twitter.com/Decred_ES/status/1323737929429245955))
 
-- November 5th #HablemosDecred 20 “Cryptocurrencies, blockchain and journalism” with Fernando Quiros from Cointelegraph in Spanish ([Twitter announcement](https://twitter.com/Decred_ES/status/1323671501212684288), [Youtube](https://www.youtube.com/watch?v=V1tl600djBA&t=1s&pbjreload=101))
+- November 5th #HablemosDecred 20 “Cryptocurrencies, blockchain and journalism” with Fernando Quiros from Cointelegraph in Spanish ([Twitter announcement](https://twitter.com/Decred_ES/status/1323671501212684288), [Youtube](https://www.youtube.com/watch?v=V1tl600djBA&t=1s&pbjreload=101)) 
+
+- November 5th Panel on Talent Land Latam Online “Our Money, Our Rules: leaving behind the national currencies” with Ana Chavez, Pablo Labarta, Lorena Franco and Elian Huesca ([Twitter announcement](https://twitter.com/talentrepublic_/status/1324046492038885376?s=19), [Youtube](https://www.youtube.com/watch?v=B0tEYQ2l_RM&feature=youtu.be))
 
 **Videos:**
 
