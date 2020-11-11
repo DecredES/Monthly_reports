@@ -6,11 +6,13 @@
 
 - October 17th Introduction to Blockchain and Decred API ([Twitter announcement](https://twitter.com/Decred_ES/status/1317536322630914051), [Youtube](https://www.youtube.com/watch?v=XSmdwWykmSo))
 
--  October 22 #HablemosDecred 18 “What is Decred” with Ana Chavez and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1318634345918320640), [Youtube](https://www.youtube.com/watch?v=rjfYxi6CXyI&t))
+-  October 22th #HablemosDecred 18 “What is Decred” with Ana Chavez and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1318634345918320640), [Youtube](https://www.youtube.com/watch?v=rjfYxi6CXyI&t))
  
--  October 29 #HablemosDecred 19 “Bitcoin in real life” with Ana Chavez and Manuel Flores from Bitcoin Monterrey ([Twitter announcement](https://twitter.com/Decred_ES/status/1321166522367283200), [Youtube](https://www.youtube.com/watch?v=ok9TVEXF8mM&feature=youtu.be))
+-  October 29th #HablemosDecred 19 “Bitcoin in real life” with Ana Chavez and Manuel Flores from Bitcoin Monterrey ([Twitter announcement](https://twitter.com/Decred_ES/status/1321166522367283200), [Youtube](https://www.youtube.com/watch?v=ok9TVEXF8mM&feature=youtu.be))
 
--  November 2th Blockchain Summit Latam keynote “Governance in public protocols) ([Twitter announcement](https://twitter.com/BlockSummitLA/status/1323302427651657733), [Twitter](https://twitter.com/BlockSummitLA/status/1323302480537673730))
+-  October 29th Blockchain and Cryptocurrencies in Latam with Territorio Bitcoin ([Twitter](https://twitter.com/territoriobtc/status/1322131929026711553), [Youtube](https://www.youtube.com/watch?v=dx8D18jlr9s&feature=youtu.be))
+
+-  November 2nd Blockchain Summit Latam keynote “Governance in public protocols) ([Twitter announcement](https://twitter.com/BlockSummitLA/status/1323302427651657733), [Twitter](https://twitter.com/BlockSummitLA/status/1323302480537673730))
 
 -  November 3th Decred Talent Land Blockchain Learning Challenge announcement ([Twitter announcement](https://twitter.com/Decred_ES/status/1323737929429245955))
 
@@ -24,8 +26,6 @@
 
 -  November 8th “Lightning Network and more news” on Decredizados with Victor Rubin ([Youtube](https://www.youtube.com/watch?v=9HEo7MpuX4U))
 
--  November —- ([Youtube]())
-
 **Social Media Content:**
 
 -  October 7th Introduction to Blockchain and Decred API ([Twitter](https://twitter.com/Decred_ES/status/1315123106839703552))
@@ -38,7 +38,7 @@
 
 -  October 25th Decred in Spanish Podcast episode 2 ([Twitter announcement](https://twitter.com/Decred_ES/status/1320497346556297216), [Spotify](https://open.spotify.com/show/7kZwB0fobWzZk7peEjypYf)) 
 
-- October 25 Decred Journal September Spanish translation  ([Medium](https://medium.com/decred-es/revista-decred-septiembre-2020-476f2d584c08), [Twitter](https://twitter.com/
+- October 25th Decred Journal September Spanish translation  ([Medium](https://medium.com/decred-es/revista-decred-septiembre-2020-476f2d584c08), [Twitter](https://twitter.com/
 
 -  October 26th Atomic Swaps thread ([Twitter](https://twitter.com/Decred_ES/status/1320736772427571206))
 
