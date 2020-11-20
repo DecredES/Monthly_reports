@@ -58,9 +58,22 @@
 
 **Next steps:**
 
-- Growing Telegram group for developers
+- Continue growing Telegram group for developers [@decredES_devs](https://t.me/decredES_devs)
 
-- 
+- Learning week for the Decred Talent Blockchain Chellenge 
+
+- Continue with Podcast Decred in Spanish episodes 5, 6, 7 and 8
+
+- Continue with #HablemosDecred 21, 22, 23 and 24 
+
+- Cripto Latin Fest sponsorship 
+
+- Labitconf sponsorship 
+
+- Final report 
+
+- New proposal 
+
 
 **Financials**
 
