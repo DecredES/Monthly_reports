@@ -44,7 +44,7 @@
 
 - Final report 
 
-- New proposal 
+- New proposal  
 
 
 **Financials**
