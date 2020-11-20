@@ -206,7 +206,7 @@
 
 - June 25 "BTC, ETH and DCR are part of the largest econmic and technological revolution of our generation" on [Cointelegraph en Español](https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation)
 
-- July 3 Anibal Cripto on Governance panel with Ernesto Contreras from Dash Pay ([tweet](https://twitter.com/anibalcripto/status/1279191924835061761 https://twitter.com/anibalcripto/status/1279209142763347973))
+- July 3 Anibal Cripto on Governance panel with Ernesto Contreras from Dash Pay ([tweet](https://twitter.com/anibalcripto/status/1279191924835061761), [tweet](https://twitter.com/anibalcripto/status/1279209142763347973))
 
 - July 17 "More than 20 new devs at Decred" by adcade for Cointelegraph in Spanish ([Cointelegraph en Español](https://es.cointelegraph.com/news/more-than-20-developers-have-contributed-to-decred-so-far-this-year))
 
