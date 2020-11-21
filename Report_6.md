@@ -32,7 +32,7 @@
 
 - Continue growing Telegram group for developers [@decredES_devs](https://t.me/decredES_devs)
 
-- Learning week for the Decred Talent Blockchain Chellenge 
+- Mentoring Decred Talent Blockchain Chellenge 
 
 - Continue with Podcast Decred in Spanish episodes 5, 6, 7 and 8
 
