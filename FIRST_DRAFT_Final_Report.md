@@ -236,60 +236,50 @@
 
 -   November 2nd “Blockchain Summit Latam 2020: exploring governance characteristics on public protocols” ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols))
 
--   October 13th “21 Heads Crypto art Show: exploring the intersection of art and cryptocurrences”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/21-heads-crypto-art-show-they-will-analyze-the-intersection-between-art-and-cryptocurrencies))
-
--   October 17th Decred API blockchain introduction ([Twitter](https://twitter.com/Decred_ES/status/1314031872658333698))
-
--   October 19th Open Source Software Contributors Summit ([Twitter](https://twitter.com/Decred_ES/status/1314339020684525568))
-
--   October 20th “What are the coming releases planned in Decred ecosystem?”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/what-new-launches-are-planned-by-the-decred-ecosystem))
-
--   October 28th “New edition of #HablemosDecred will explore the state of cryptocurrencies in Mexico”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-cryptomontages-in-mexico))
-
--   November 2nd “Next edition of #HablemosDecred will explore the intersection of cryptocurrencies and journalism”([Cointelegraph in Spanish](https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-focus-on-linking-the-media-with-crypto))
-
--   November 2nd “Blockchain Summit Latam 2020: exploring governance characteristics on public protocols” ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols))
-
 -   November 2nd and 3th Blockchain Summit Latam, Decred will be a Silver sponsor ([Twitter](https://twitter.com/BlockSummitLA/status/1313302075879677952))
 
 **Social Media Stats:**
 
-Social media stats:
-Social Media Engagement
-Twitter: 707 (+202 followers, +42%)
-Engagement: 0.117 %
-Impressions: 597, 900
-Link clicks: 580
-Retweets: 820
-Likes: 3665
-Comments: 209
-Instagram: 333 (+148 followers, +78%)
-Engagement: 12.55 %
-Posts: 16
-Impressions: 2212
-Likes: 410
-Comments: 27
-Countries with the most followers: Mexico (34%), Argentina (21%), Venezuela (9%), Brazil (9%) and Colombia (7%)
-Facebook: 669 (+194 followers, +41%)
-Engagement: 1.93 %
-Likes: 646
-Posts: 109
-Reactions: 558
-Comments: 28
-Impressions: 33,330
-Countries with the most followers: Mexico, Bolivia, Argentina, Colombia and Peru
-Youtube: 23 ( +14 subscribers, +155%)
-Engagement: 0.863%
-Videos: 10
-Views: 284
-Impressions: 2349
-Likes: 31
-Medium: 8 ( +3 followers, +60%)
-Views: 1300
-Telegram: 165 (+35 followers, +27%)
+Twitter: 
+Engagement: 
+Impressions: 
+Link clicks: 
+Retweets: 
+Likes: 
+Comments: 
+
+Instagram: 
+Engagement: 
+Posts: 
+Impressions: 
+Likes: 
+Comments: 
+Countries with the most followers: 
+
+Facebook: 
+Engagement: 
+Likes: 
+Posts: 
+Reactions: 
+Comments: 
+Impressions: 
+Countries with the most followers: 
+
+Youtube: 
+Engagement: 
+Videos: 
+Views: 
+Impressions: 
+Likes: 
+
+Medium: 
+Views: 
+
+Telegram: 
 Telegram Dev group: 
-Cointelegraph in Spanish total views: 5570
-Cointelegraph in Spanish total shared: 171
+
+Cointelegraph in Spanish total views: 15,472
+Cointelegraph in Spanish total shared: 
 
 
 **Financials**
