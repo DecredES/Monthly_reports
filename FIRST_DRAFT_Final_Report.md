@@ -1,6 +1,6 @@
 **Final Activities Report Decred in Spanish Proposal 2 from June to December 2020**
 
-*Virtual Events:*
+**Virtual Events:**
 
 - June 25 HablemosDecred 6 "Git and Github: global collaboration tools" ([twitter](https://twitter.com/Decred_ES/status/1275164449448607748), [twitter](https://www.youtube.com/watch?v=4b0xYYk6xlY))
 
@@ -66,7 +66,7 @@
 
 
 
-*Videos:*
+**Videos:**
 
 - June 12 Decredizados #02: The new Treasury ([Youtube](https://www.youtube.com/watch?v=KmDbScdNjVU&feature=youtu.be))
 
@@ -94,7 +94,7 @@
 
 
 
-*Social Media Content:*
+**Social Media Content:**
 
 - June 3 "Una forma más privada de hacer Staking en DCR" on ([Medium](https://medium.com/decred-es/una-forma-m%C3%A1s-privada-de-hacer-staking-en-dcr-36785ad54a47)) 
 
@@ -194,7 +194,7 @@
 
 
 
-*News and mentions:* 
+**News and mentions:**
 
 - May 20 What is Decred? A secure, adaptable and sustainable store of value in [Cointelegraph en Español](https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability)
 
