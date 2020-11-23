@@ -241,45 +241,79 @@
 **Social Media Stats:**
 
 Twitter: 
+
 Engagement: 
+
 Impressions: 
+
 Link clicks: 
+
 Retweets: 
+
 Likes: 
+
 Comments: 
+
 
 Instagram: 
+
 Engagement: 
+
 Posts: 
+
 Impressions: 
+
 Likes: 
+
 Comments: 
+
 Countries with the most followers: 
+
 
 Facebook: 
+
 Engagement: 
+
 Likes: 
+
 Posts: 
+
 Reactions: 
+
 Comments: 
+
 Impressions: 
+
 Countries with the most followers: 
 
+
 Youtube: 
+
 Engagement: 
+
 Videos: 
+
 Views: 
+
 Impressions: 
+
 Likes: 
 
+
 Medium: 
+
 Views: 
 
+
 Telegram: 
+
 Telegram Dev group: 
 
+
 Cointelegraph in Spanish total views: 15,472
+
 Cointelegraph in Spanish total shared: 
+
 
 
 **Financials**
