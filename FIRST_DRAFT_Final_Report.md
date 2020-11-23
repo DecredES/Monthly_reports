@@ -68,25 +68,25 @@
 
 **Videos:**
 
-- June 12 Decredizados #02: The new Treasury ([Youtube](https://www.youtube.com/watch?v=KmDbScdNjVU&feature=youtu.be))
+- June 12th Decredizados #02: The new Treasury ([Youtube](https://www.youtube.com/watch?v=KmDbScdNjVU&feature=youtu.be))
 
-- June 23 Decredizados #03: A new way to vote ([Youtube](https://www.youtube.com/watch?v=XKCZp79le0I))
+- June 23th Decredizados #03: A new way to vote ([Youtube](https://www.youtube.com/watch?v=XKCZp79le0I))
 
-- July 2 Politeia Express #01: ([Youtube](https://twitter.com/Decred_ES/status/1278855527485837319))
+- July 2nd Politeia Express #01: ([Youtube](https://twitter.com/Decred_ES/status/1278855527485837319))
 
-- July 7 Código Decred #01: Git & Github ([Youtube](https://www.youtube.com/watch?v=RFX0P9MKLKg))
+- July 7th Código Decred #01: Git & Github ([Youtube](https://www.youtube.com/watch?v=RFX0P9MKLKg))
 
-- July 8 Introduction to Bitcoin, Decred and cryptocurrencies with Crypto Resources Academy ([Twitter announcement](https://twitter.com/Decred_ES/status/1282694652915789825), [Youtube](https://www.youtube.com/watch?v=DdisxhEBUkM))
+- July 8th Introduction to Bitcoin, Decred and cryptocurrencies with Crypto Resources Academy ([Twitter announcement](https://twitter.com/Decred_ES/status/1282694652915789825), [Youtube](https://www.youtube.com/watch?v=DdisxhEBUkM))
 
-- July 15 Instagram Live "What is Decred?" ([Twitter announcement](https://twitter.com/Decred_ES/status/1283548889249992704))
+- July 15th Instagram Live "What is Decred?" ([Twitter announcement](https://twitter.com/Decred_ES/status/1283548889249992704))
 
-- July 27 Decredizados 5 ([Twitter announcement](https://twitter.com/Decred_ES/status/1287809385834713091), [Youtube](https://www.youtube.com/watch?v=lomSwQjs9uQ))
+- July 27th Decredizados 5 ([Twitter announcement](https://twitter.com/Decred_ES/status/1287809385834713091), [Youtube](https://www.youtube.com/watch?v=lomSwQjs9uQ))
 
--  August 10 Código Decred #02: Exploring the Decred chain with Python ([Twitter announcement](https://twitter.com/Decred_ES/status/1292842239878627328), [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0))
+-  August 10th Código Decred #02: Exploring the Decred chain with Python ([Twitter announcement](https://twitter.com/Decred_ES/status/1292842239878627328), [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0))
 
--  August 19 Politeia Express Marketing Proposals Overview in Spanish ([Twitter announcement and video](https://twitter.com/Decred_ES/status/1296148410173620225))
+-  August 19th Politeia Express Marketing Proposals Overview in Spanish ([Twitter announcement and video](https://twitter.com/Decred_ES/status/1296148410173620225))
   
--  August 31 Código Decred #03: Verifying Binaries ([Twitter announcement](https://twitter.com/Decred_ES/status/1300594435080757248), [Youtube](https://www.youtube.com/watch?v=U3BwnmmF1Ro))
+-  August 31st Código Decred #03: Verifying Binaries ([Twitter announcement](https://twitter.com/Decred_ES/status/1300594435080757248), [Youtube](https://www.youtube.com/watch?v=U3BwnmmF1Ro))
 
 -  October 12th Introduction to DCR with Pablo Labarta ([Youtube](https://www.youtube.com/watch?v=S2SeVZqnO9A))
 
@@ -98,47 +98,47 @@
 
 - June 3 "Una forma más privada de hacer Staking en DCR" on ([Medium](https://medium.com/decred-es/una-forma-m%C3%A1s-privada-de-hacer-staking-en-dcr-36785ad54a47)) 
 
-- June 5 Decred Drive on ([Medium](https://medium.com/decred-es/the-decred-drive-4-de-junio-cc406b423537))
+- June 5th Decred Drive on ([Medium](https://medium.com/decred-es/the-decred-drive-4-de-junio-cc406b423537))
 
-- June 15 dcrtime thread on Twitter ([tweet](https://twitter.com/Decred_ES/status/1272572308805292037))
+- June 15th dcrtime thread on Twitter ([tweet](https://twitter.com/Decred_ES/status/1272572308805292037))
 
-- Revista Decred May 2020 on ([Medium](https://medium.com/decred-es/revista-decred-mayo-2020-a02e5de0ac59))
+- June 17th Revista Decred on ([Medium](https://medium.com/decred-es/revista-decred-mayo-2020-a02e5de0ac59))
 
-- June 17 Politeia Digest #32 in Spanish ([Medium](https://medium.com/decred-es/politeia-digest-32-mayo-23-junio-12-2020-69937842d972))
+- June 17th Politeia Digest #32 in Spanish ([Medium](https://medium.com/decred-es/politeia-digest-32-mayo-23-junio-12-2020-69937842d972))
  
-- June 20 Podcast "What is Decred?" with Territorio Bitcoin ([ivoox](https://www.ivoox.com/episodio-123-que-es-decred-entrevista-en-audios-mp3_rf_52242080_1.html))
+- June 20th Podcast "What is Decred?" with Territorio Bitcoin ([ivoox](https://www.ivoox.com/episodio-123-que-es-decred-entrevista-en-audios-mp3_rf_52242080_1.html))
 
-- June 26 Decred wallet download thread ([tweet](https://twitter.com/Decred_ES/status/1276586231560724480))
+- June 26th Decred wallet download thread ([tweet](https://twitter.com/Decred_ES/status/1276586231560724480))
 
-- June 26 Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-11-junio-781069b7ed49)) 
+- June 26th Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-11-junio-781069b7ed49)) 
 
-- June 26 Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-18-de-junio-4b2603f11b13))
+- June 26th Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-18-de-junio-4b2603f11b13))
 
-- June 29 Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-25-de-junio-d344149262bd)) 
+- June 29th Decred Drive on ([Medium](https://medium.com/decred-es/decred-drive-25-de-junio-d344149262bd)) 
 
-- July 1 "How to set a Decred node" ([Medium](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48))
+- July 1st "How to set a Decred node" ([Medium](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48))
 
-- July 1 "Porque Decred es necesario: un enfoque inclusivo sobre el dinero duradero" on ([Medium](https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3))
+- July 1st "Porque Decred es necesario: un enfoque inclusivo sobre el dinero duradero" on ([Medium](https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3))
 
-- July 3 "El trabajo en el mundo digital: del Software libre a las Organizaciones Autónomas Descentralizadas" on ([Medium](https://medium.com/@anadalia.cd/el-trabajo-en-el-mundo-digital-del-software-libre-a-las-organizaciones-aut%C3%B3nomas-descentralizadas-44caf434aab6))
+- July 3th "El trabajo en el mundo digital: del Software libre a las Organizaciones Autónomas Descentralizadas" on ([Medium](https://medium.com/@anadalia.cd/el-trabajo-en-el-mundo-digital-del-software-libre-a-las-organizaciones-aut%C3%B3nomas-descentralizadas-44caf434aab6))
 
-- July 6 Decred Drive (2 de Julio) on ([Medium](https://medium.com/decred-es/decred-drive-2-de-julio-27ee9e6f53ba))
+- July 6th Decred Drive (2 de Julio) on ([Medium](https://medium.com/decred-es/decred-drive-2-de-julio-27ee9e6f53ba))
 
-- July 12 DCRDEX ([Twitter](https://twitter.com/Decred_ES/status/1282350386175791104))
+- July 12th DCRDEX ([Twitter](https://twitter.com/Decred_ES/status/1282350386175791104))
 
-- July 17 Decred Journal translation in Spanish ([Twitter announcement](https://twitter.com/Decred_ES/status/1284204124087754758), [Medium](https://medium.com/decred-es/revista-decred-junio-2020-a7716b71251e))
+- July 17th Decred Journal translation in Spanish ([Twitter announcement](https://twitter.com/Decred_ES/status/1284204124087754758), [Medium](https://medium.com/decred-es/revista-decred-junio-2020-a7716b71251e))
 
-- July 19 Politeia Digest 33 in Spanish ([Twitter announcement](https://twitter.com/plabarta_/status/1285697128698912777), [Medium](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312))
+- July 19th Politeia Digest 33 in Spanish ([Twitter announcement](https://twitter.com/plabarta_/status/1285697128698912777), [Medium](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312))
 
-- July 27 Decred pronunciation with Bugs Bunny ([Twitter](https://twitter.com/Decred_ES/status/1287924524906958848))
+- July 27th Decred pronunciation with Bugs Bunny ([Twitter](https://twitter.com/Decred_ES/status/1287924524906958848))
 
-- July 31 "The Federal Reserve: a rigged game" translation by Franco ([Twitter announcement](https://twitter.com/Decred_ES/status/1289267633020272640), [Medium](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b))
+- July 31st "The Federal Reserve: a rigged game" translation by Franco ([Twitter announcement](https://twitter.com/Decred_ES/status/1289267633020272640), [Medium](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b))
 
-- July 31 Golden Stakey ([Twitter](https://twitter.com/Decred_ES/status/1289310029774876672))
+- July 31st Golden Stakey ([Twitter](https://twitter.com/Decred_ES/status/1289310029774876672))
 
-- August 3 Decred Devs repositories ([Twitter](https://twitter.com/Decred_ES/status/1290312492812505090)) 
+- August 3th Decred Devs repositories ([Twitter](https://twitter.com/Decred_ES/status/1290312492812505090)) 
 
-- August 10 Codigo Decred "Exploring Decred with Python" with pablito ([Twitter announcement](https://twitter.com/Decred_ES/status/1292842239878627328), [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0))
+- August 10th Codigo Decred "Exploring Decred with Python" with pablito ([Twitter announcement](https://twitter.com/Decred_ES/status/1292842239878627328), [Youtube](https://www.youtube.com/watch?v=FGhklclRNt0))
 
 -  August 11th Decred Journal July 2020 Spanish translation ([Twitter announcement](https://twitter.com/Decred_ES/status/1293238369657540609), [Medium](https://medium.com/decred-es/revista-decred-julio-2020-2ce994d8ee8f))
 
@@ -196,23 +196,23 @@
 
 **News and mentions:**
 
-- May 20 What is Decred? A secure, adaptable and sustainable store of value in [Cointelegraph en Español](https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability)
+- May 20th What is Decred? A secure, adaptable and sustainable store of value in [Cointelegraph en Español](https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability)
 
-- June 9 Blockchain Land Director mention on Latam proposal approval ([tweet](https://twitter.com/josepimpo/status/1270345149525213184))
+- June 9th Blockchain Land Director mention on Latam proposal approval ([tweet](https://twitter.com/josepimpo/status/1270345149525213184))
 
-- June 10 Decred Blockchain analysis from Richard Red translated to Spanish by Territorio Blockchain Magazine ([tweet](https://twitter.com/_TBlockchain/status/1270766708278648833))
+- June 10th Decred Blockchain analysis from Richard Red translated to Spanish by Territorio Blockchain Magazine ([tweet](https://twitter.com/_TBlockchain/status/1270766708278648833))
 
-- June 18 Decred On-chain: Realised Cap, MVRV Ratio y Gradient Oscillators in Spanish by Territorio Blockchain Magazine ([tweet](https://twitter.com/_TBlockchain/status/1273541731062099969))
+- June 18th Decred On-chain: Realised Cap, MVRV Ratio y Gradient Oscillators in Spanish by Territorio Blockchain Magazine ([tweet](https://twitter.com/_TBlockchain/status/1273541731062099969))
 
-- June 25 "BTC, ETH and DCR are part of the largest econmic and technological revolution of our generation" on [Cointelegraph en Español](https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation)
+- June 25th "BTC, ETH and DCR are part of the largest econmic and technological revolution of our generation" on [Cointelegraph en Español](https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation)
 
-- July 3 Anibal Cripto on Governance panel with Ernesto Contreras from Dash Pay ([tweet](https://twitter.com/anibalcripto/status/1279191924835061761), [tweet](https://twitter.com/anibalcripto/status/1279209142763347973))
+- July 3th Anibal Cripto on Governance panel with Ernesto Contreras from Dash Pay ([tweet](https://twitter.com/anibalcripto/status/1279191924835061761), [tweet](https://twitter.com/anibalcripto/status/1279209142763347973))
 
-- July 17 "More than 20 new devs at Decred" by adcade for Cointelegraph in Spanish ([Cointelegraph en Español](https://es.cointelegraph.com/news/more-than-20-developers-have-contributed-to-decred-so-far-this-year))
+- July 17th "More than 20 new devs at Decred" by adcade for Cointelegraph in Spanish ([Cointelegraph en Español](https://es.cointelegraph.com/news/more-than-20-developers-have-contributed-to-decred-so-far-this-year))
 
-- August 3 #HablemosDecred 8 mention by criptolugares ([Twitter](https://twitter.com/criptolugares/status/1290295356505223168))
+- August 3th #HablemosDecred 8 mention by criptolugares ([Twitter](https://twitter.com/criptolugares/status/1290295356505223168))
 
-- August 7 Mention of Decred work in Latam by tomee in Cointelegraph en Español ([Cointelegraph en Español](https://es.cointelegraph.com/news/managing-director-of-crypto-resources-we-believe-in-cooperation-rather-than-competition))
+- August 7th Mention of Decred work in Latam by tomee in Cointelegraph en Español ([Cointelegraph en Español](https://es.cointelegraph.com/news/managing-director-of-crypto-resources-we-believe-in-cooperation-rather-than-competition))
 
 -  August 25th #HablemosDecred 9 Legal perspectives of cryptocurrency mention in Criptonoticias ([Criptonoticias](https://www.criptonoticias.com/mercados/nueva-plataforma-evento-legalidad-nem-decred-top-semanal/amp/?__twitter_impression=true))
 
@@ -240,7 +240,7 @@
 
 **Social Media Stats:**
 
-Twitter: 
+**Twitter:**
 
 Engagement: 
 
@@ -255,7 +255,7 @@ Likes:
 Comments: 
 
 
-Instagram: 
+**Instagram:** 
 
 Engagement: 
 
@@ -270,7 +270,7 @@ Comments:
 Countries with the most followers: 
 
 
-Facebook: 
+**Facebook:** 
 
 Engagement: 
 
@@ -287,7 +287,7 @@ Impressions:
 Countries with the most followers: 
 
 
-Youtube: 
+**Youtube:** 
 
 Engagement: 
 
@@ -300,19 +300,25 @@ Impressions:
 Likes: 
 
 
-Medium: 
+**Medium:** 
 
 Views: 
 
 
-Telegram: 
+**Telegram DecredES:**
 
-Telegram Dev group: 
+Members:
+
+**Telegram devs@DecredES: 
+
+Members:
 
 
-Cointelegraph in Spanish total views: 15,472
+**Cointelegraph in Spanish** 
 
-Cointelegraph in Spanish total shared: 
+Total article views: 15,472**
+
+Total article shares: 
 
 
 
