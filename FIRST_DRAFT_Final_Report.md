@@ -242,20 +242,24 @@
 
 **Twitter:**
 
-Engagement: 
+Followers: 1066 (+359, +50%)
 
-Impressions: 
+Engagement: 3.2
 
-Link clicks: 
+Impressions: 237,000
 
-Retweets: 
+Link clicks: 763
 
-Likes: 
+Retweets: 489
 
-Comments: 
+Likes: 2400
+
+Comments: 149
 
 
 **Instagram:** 
+
+Followers:
 
 Engagement: 
 
@@ -271,6 +275,8 @@ Countries with the most followers:
 
 
 **Facebook:** 
+
+Followers: 763 (+94, +14%)
 
 Engagement: 
 
@@ -289,13 +295,15 @@ Countries with the most followers:
 
 **Youtube:** 
 
+Subscribers: 180 (+157, +680%)
+
 Engagement: 
 
 Videos: 
 
-Views: 
+Views: 2913
 
-Impressions: 
+Impressions: 23600
 
 Likes: 
 
