@@ -1,8 +1,13 @@
 **Final Activities Report Decred in Spanish Proposal 2 from June to December 2020**
 
-**Overall results Decred in Spanish June to December 2020**
-
 **Challenges**
+
+- Push forward the content that has been created over the past 6 months on Youtube through the social media channels of Decred in Spanish
+
+- 
+
+-
+
 
 - Reinforce the efforts and resources towards building bridges with Dev teams in Latam.
 
@@ -12,15 +17,27 @@
 
 **Strengths**
 
-- International team: interdisciplinary profiles, highly specialised in cryptocurrency industries, technology and entrepreneurial ecosystems.
+- Efforts and resources towards building Dev power in Spanish through the Decred Talent Land Blockchain Challenge
 
-- Broad network: our team is connected across the sector in Argentina, Colombia, Mexico, Peru, Spain, Uruguay and Venezuela.
+- Organically grow Youtube audience through +50 pieces of new content related to Decred and cryptocurrencies in Spanish
+
+- Working flows for content creation of #HablemosDecred, Código Decred, Decredizados, Podcast Decred in Spanish and the Decred Talent Land Blockchain Challenge.
+
+- Broad network of professional contants in Argentina, Colombia, Mexico, Peru, Spain, Uruguay and Venezuela.
 
 - Content production: proved funnel from planning to execution on multiple media formats (audio, video, text and graphic design).
 
 - Proven flexibility: due to Covid-19 we changed our entire strategy within the span of days and as of today we have made the same number of IRL and virtual events.
 
 **Areas of opportunity**
+
+-
+
+-
+
+-
+
+
 
 - More video content about all things Decred, from 101 questions to complex issues for different audiences and in coordination with major project releases.
 
@@ -305,7 +322,7 @@ Comments: 28
 
 Followers: **763 (+94, +14%)**
 
-Engagement: 3.12% (+1.19, +
+Engagement: 
 
 Likes: 719
 
