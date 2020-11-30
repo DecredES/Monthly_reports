@@ -259,7 +259,7 @@ Comments: 149
 
 **Instagram:** 
 
-Followers:
+Followers: 477 (+144, +30%)
 
 Engagement: 
 
@@ -280,46 +280,35 @@ Followers: 763 (+94, +14%)
 
 Engagement: 
 
-Likes: 
+Likes: 719
 
-Posts: 
+Posts: 126
 
-Reactions: 
-
-Comments: 
-
-Impressions: 
+Impressions: 338,343 
 
 Countries with the most followers: 
 
 
 **Youtube:** 
 
-Subscribers: 180 (+157, +680%)
+Subscribers: **180 (+157, +680%)**
 
-Engagement: 
+Engagement: 3.3%
 
 Videos: 
 
-Views: 2913
+Views: 2913 (+2629, +1000%)
 
-Impressions: 23600
-
-Likes: 
-
-
-**Medium:** 
-
-Views: 
+Impressions: 23600 (+21,251, +1000%)
 
 
 **Telegram DecredES:**
 
-Members:
+Members: **207 (+42, +20%)**
 
 **Telegram devs@DecredES: 
 
-Members:
+Members: **93 new members** 
 
 
 **Cointelegraph in Spanish** 
