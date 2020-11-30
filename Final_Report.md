@@ -17,13 +17,13 @@
 
 **Strengths**
 
-- Efforts and resources towards building Dev power in Spanish through the Decred Talent Land Blockchain Challenge
+- Efforts and resources towards building Dev power in Spanish through the Decred Talent Land Blockchain Challenge and Dev related content.
 
 - Organically grow Youtube audience through +50 pieces of new content related to Decred and cryptocurrencies in Spanish
 
 - Working flows for content creation of #HablemosDecred, Código Decred, Decredizados, Podcast Decred in Spanish and the Decred Talent Land Blockchain Challenge.
 
-- Broad network of professional contants in Argentina, Colombia, Mexico, Peru, Spain, Uruguay and Venezuela.
+- Broad network of professional contacts in Argentina, Colombia, Mexico, Peru, Spain, Uruguay and Venezuela.
 
 - Content production: proved funnel from planning to execution on multiple media formats (audio, video, text and graphic design).
 
