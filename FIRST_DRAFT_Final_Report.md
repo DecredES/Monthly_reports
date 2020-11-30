@@ -238,11 +238,11 @@
 
 -   November 2nd and 3th Blockchain Summit Latam, Decred will be a Silver sponsor ([Twitter](https://twitter.com/BlockSummitLA/status/1313302075879677952))
 
-**Social Media Stats:**
+**Social Media Stats and comparison from previous proposal:**
 
 **Twitter:**
 
-Followers: 1066 (+359, +50%)
+Followers: **1066 (+359, +50%)**
 
 Engagement: 3.2
 
@@ -259,7 +259,7 @@ Comments: 149
 
 **Instagram:** 
 
-Followers: 477 (+144, +30%)
+Followers: **477 (+144, +30%)**
 
 Engagement: 
 
@@ -276,7 +276,7 @@ Countries with the most followers:
 
 **Facebook:** 
 
-Followers: 763 (+94, +14%)
+Followers: **763 (+94, +14%)**
 
 Engagement: 
 
@@ -291,15 +291,15 @@ Countries with the most followers:
 
 **Youtube:** 
 
-Subscribers: **180 (+157, +680%)**
+Subscribers: **183 (+160, +680%)**
 
-Engagement: 3.3%
+Engagement: **3.3% (+2.43, +300%)
 
-Videos: 
+Videos: **55 (+40, +550%)**
 
-Views: 2913 (+2629, +1000%)
+Views: **2913 (+2629, +1000%)**
 
-Impressions: 23600 (+21,251, +1000%)
+Impressions: **23600 (+21,251, +1000%)**
 
 
 **Telegram DecredES:**
