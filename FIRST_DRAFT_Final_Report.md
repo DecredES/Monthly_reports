@@ -1,5 +1,33 @@
 **Final Activities Report Decred in Spanish Proposal 2 from June to December 2020**
 
+**Overall results Decred in Spanish June to December 2020**
+
+**Challenges**
+
+- Reinforce the efforts and resources towards building bridges with Dev teams in Latam.
+
+- Connecting local Decred communities spread across different countries, social networks and industries to form a much bigger and diverse Decred network in LATAM.
+
+- Coordinate structured agendas for periodical content on social media with all team members and across different channels.
+
+**Strengths**
+
+- International team: interdisciplinary profiles, highly specialised in cryptocurrency industries, technology and entrepreneurial ecosystems.
+
+- Broad network: our team is connected across the sector in Argentina, Colombia, Mexico, Peru, Spain, Uruguay and Venezuela.
+
+- Content production: proved funnel from planning to execution on multiple media formats (audio, video, text and graphic design).
+
+- Proven flexibility: due to Covid-19 we changed our entire strategy within the span of days and as of today we have made the same number of IRL and virtual events.
+
+**Areas of opportunity**
+
+- More video content about all things Decred, from 101 questions to complex issues for different audiences and in coordination with major project releases.
+
+- As we continue building communities across Latam, there is a growing need to foster relationships with locals exchanges for future fiat listing as part of our strategy to build local markets.
+
+- More cross marketing opportunities with Tier 1 projects, organisations and enterprises looking to explore blockchain and broader technology issues.
+
 **Virtual Events:**
 
 - June 25 HablemosDecred 6 "Git and Github: global collaboration tools" ([twitter](https://twitter.com/Decred_ES/status/1275164449448607748), [twitter](https://www.youtube.com/watch?v=4b0xYYk6xlY))
@@ -322,21 +350,5 @@ Total article shares: 81
 
 - A detailed list of expenses by diferent categories can be found here: 
 
-,,,,,
-,,,,,
-,,Content product,Units,Unitary price,Total
-,,#HablemosDecred,18,620,11160
-,,Código Decred,4,600,2400
-,,Podcast Decred en Español,4,600,2400
-,,Decred Blockchain Challenge,1,4450,4450
-,,Virtual events,16,300,3200
-,,Decredizados,4,600,2400
-,,Written articles,4,250,1000
-,,Team coordination,1,2660,2660
-,,User support,1,2820,2820
-,,Moderation,1,1820,1820
-,,"Social media management (copyright and design TW, FB, IG, TG)",1,7970,7970
-,,Sponsorships,4,475,1900
-,,giveaways,40,12.5,500
-,,swag,1,1320,1320
+
 
