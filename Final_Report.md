@@ -352,3 +352,20 @@ Total article shares: 81
 
 
 
+,,,,,
+,,,,,
+,,Content product,Units,Unitary price,Total
+,,#HablemosDecred,18,$620.00,"$11,160.00"
+,,Código Decred,4,$600.00,"$2,400.00"
+,,Podcast Decred en Español,4,$600.00,"$2,400.00"
+,,Decred Blockchain Challenge,1,"$4,450.00","$4,450.00"
+,,Virtual events,16,$300.00,"$3,200.00"
+,,Decredizados,4,$600.00,"$2,400.00"
+,,Written articles,4,$250.00,"$1,000.00"
+,,Team coordination,1,"$2,660.00","$2,660.00"
+,,User support,1,"$1,385.00","$1,385.00"
+,,Moderation,1,"$1,720.00","$1,720.00"
+,,"Social media management (copyright and design TW, FB, YT, IG, TG)",1,"$7,970.00","$7,970.00"
+,,Sponsorships,4,$475.00,"$1,900.00"
+,,Giveaways,40,$12.50,$500.00
+,,Total,,,"$43,145.00"
