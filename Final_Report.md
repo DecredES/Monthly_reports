@@ -305,7 +305,7 @@ Comments: 28
 
 Followers: **763 (+94, +14%)**
 
-Engagement: 
+Engagement: 3.12% (+1.19, +
 
 Likes: 719
 
