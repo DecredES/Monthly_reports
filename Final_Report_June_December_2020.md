@@ -319,7 +319,7 @@ Impressions: **23600 (+21,251, +1000%)**
 
 Members: **207 (+42, +20%)**
 
-**Telegram devs@DecredES: 
+**Telegram devs@DecredES:**
 
 Members: **93 new members** 
 
