@@ -3,15 +3,10 @@
 **Highlights**
 
 - Double down on Dev power formation and headhunting with more content and two editions of the Decred Talent Land Blockchain Challenge
-
 - Efforts and resources towards building Dev power in Spanish through the Decred Talent Land Blockchain Challenge and Dev related content.
-
 - Organically grow Youtube audience through +50 pieces of new content related to Decred and cryptocurrencies in Spanish
-
 - Working flows for content creation of #HablemosDecred, Código Decred, Decredizados, Podcast Decred in Spanish and the Decred Talent Land Blockchain Challenge.
-
 - Broad network of professional contacts in Argentina, Colombia, Ecuador, Mexico, Peru, Spain, Uruguay and Venezuela.
-
 - Content production: proved funnel from planning to execution on multiple media formats (audio, video, text and graphic design).
 
 **Full list of Activities:**
@@ -258,79 +253,52 @@
 
 **Twitter:**
 
-Followers: **1066 (+359, +50%)**
-
-Engagement: 3.2
-
-Impressions: 237,000
-
-Link clicks: 763
-
-Retweets: 489
-
-Likes: 2400
-
-Comments: 149
-
+- Followers: **1066 (+359, +50%)**
+- Engagement: 3.2
+- Impressions: 237,000
+- Link clicks: 763
+- Retweets: 489
+- Likes: 2400
+- Comments: 149
 
 **Instagram:** 
 
-Followers: **477 (+144, +30%)**
-
-Engagement: 60%
-
-Posts: 39 
-
-Impressions: 741
-
-Likes: 711
-
-Comments: 28
-
-
+- Followers: **477 (+144, +30%)**
+- Engagement: 60%
+- Posts: 39 
+- Impressions: 741
+- Likes: 711
+- Comments: 28
 
 **Facebook:** 
 
-Followers: **763 (+94, +14%)**
-
-Engagement: 
-
-Likes: 719
-
-Posts: 126
-
-Impressions: **338,343 (+305,013, +1000%)**
-
+- Followers: **763 (+94, +14%)**
+- Engagement: 
+- Likes: 719
+- Posts: 126
+- Impressions: **338,343 (+305,013, +1000%)**
 
 **Youtube:** 
 
-Subscribers: **183 (+160, +680%)**
-
-Engagement: **3.3% (+2.43, +300%)**
-
-Videos: **55 (+40, +550%)**
-
-Views: **2913 (+2629, +1000%)**
-
-Impressions: **23600 (+21,251, +1000%)**
-
+- Subscribers: **183 (+160, +680%)**
+- Engagement: **3.3% (+2.43, +300%)**
+- Videos: **55 (+40, +550%)**
+- Views: **2913 (+2629, +1000%)**
+- Impressions: **23600 (+21,251, +1000%)**
 
 **Telegram DecredES:**
 
-Members: **207 (+42, +20%)**
+- Members: **207 (+42, +20%)**
 
 **Telegram devs@DecredES:**
 
-Members: **93 new members** 
+- Members: **93 new members** 
 
 
 **Cointelegraph in Spanish:** 
 
-Total article views: 14,168
-
-Total article shares: 81
-
-
+- Total article views: 14,168
+- Total article shares: 81
 
 **Financials**
 
