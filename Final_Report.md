@@ -330,7 +330,7 @@ Members: **207 (+42, +20%)**
 Members: **93 new members** 
 
 
-**Cointelegraph in Spanish** 
+**Cointelegraph in Spanish:** 
 
 Total article views: 14,168
 
