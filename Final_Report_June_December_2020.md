@@ -357,10 +357,10 @@ Total article shares: 81
 		Total			$43,145.00
 		
 Content product|Units|Unitary price|Total
--|-|-
+---|--:|--:|--:
 #HablemosDecred|18|$620.00|$11,160.00
 Código Decred|4|$600.00|$2,400.00
-Podcast Decred en Español|4$600.00|$2,400.00
+Podcast Decred en Español|4|$600.00|$2,400.00
 Decred Blockchain Challenge|1|$4,450.00|$4,450.00
 Virtual events|16|$300.00|$3,200.00
 Decredizados|4|$600.00|$2,400.00
