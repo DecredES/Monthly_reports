@@ -1,5 +1,3 @@
-![alt text](https://imgur.com/a/oMJdI9Z)
-
 **Final Activities Report Decred in Spanish Proposal 2 from June to December 2020**
 
 **Highlights**
