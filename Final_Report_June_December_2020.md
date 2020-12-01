@@ -1,14 +1,8 @@
 **Final Activities Report Decred in Spanish Proposal 2 from June to December 2020**
 
-**Challenges**
-
-- Push forward the content that has been created over the past 6 months on Youtube through the social media channels of Decred in Spanish
+**Highlights**
 
 - Double down on Dev power formation and headhunting with more content and two editions of the Decred Talent Land Blockchain Challenge
-
-- Get clear working paths towards liquidity solutions in the region through dedicated proposals up in Politeia for fiat pairs in Latam and Spain.
-
-**Strengths**
 
 - Efforts and resources towards building Dev power in Spanish through the Decred Talent Land Blockchain Challenge and Dev related content.
 
