@@ -184,7 +184,7 @@
 
 **Cointelegraph in Spanish:** 
 
-- Total article views: 14,168
+- Total article views: 14,168 (+8598, +60%)
 - Total article shares: 81
 
 **Financials**
