@@ -20,11 +20,16 @@
 
 -  November 26th #HablemosDecred 23 "DLTs and Crypto: similarities and differences" with Felipe Montoya ([Twitter announcement](https://twitter.com/Decred_ES/status/1331372082354130946), [Youtube](https://youtu.be/tu5OqKQhSbk))
 
--  November ([Twitter announcement](), [Youtube]())
+-  December 2nd Countdown to Decred Talent Land Blockchain Challenge project reception ([Twitter announcement](https://twitter.com/Decred_ES/status/1334195734716018691))
 
--  November ([Twitter announcement](), [Youtube]())
+-  December 3th #HablemosDecred 24 "Are cryptocurrencies private?" with Pablo Labarta and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1333896288279080961), [Youtube](https://youtu.be/Uv_fnF5M8nk))
 
--  November ([Twitter announcement](), [Youtube]())
+-  December 10th #HablemosDecred 25 "1 year working in the DAO: 2020 and whats ahead" with Carolina Ibarra, Ana Chavez, Lorena Franco, Pablo Labarta, Tomas Gross and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1336710415410204672), [Youtube](https://youtu.be/ldddE_mNSM4))
+
+-  December ([Twitter announcement](), [Youtube]())
+
+-  December ([Twitter announcement](), [Youtube]())
+
 
 
 **Videos:**
@@ -47,19 +52,17 @@
 
 -  November 24th Decred design toolkit with Nacho Rodriguez ([Twitter announcement](https://twitter.com/Decred_ES/status/1331329575935225858), [Youtube](https://youtu.be/czqQTw4VNBM))
 
--  November ([Twitter announcement](), [Youtube]())
+-  November 27th October Decred Journal Spanish translation ([Twitter announcement](https://twitter.com/Decred_ES/status/1332372854038532096), [Medium](https://medium.com/decred-es/revista-decred-octubre-2020-6046236fc0c1))
 
--  November ([Twitter announcement](), [Youtube]())
+-  November 27th invitation to publish articles in Decred in Spanish Medium ([Twitter announcement](https://twitter.com/Decred_ES/status/1332429047155073024))
 
--  November ([Twitter announcement](), [Youtube]())
+-  November 27th Codigo Decred YouTube playlist ([Twitter announcement](https://twitter.com/Decred_ES/status/1332474332946305024), [Youtube](https://www.youtube.com/playlist?list=PLHZZTXR_CIhKL5I-4wAiBZcciZk-dW5Jn))
 
--  November ([Twitter announcement](), [Youtube]())
+-  November 27th Decred and Remote work on Medium ([Twitter announcement](https://twitter.com/Decred_ES/status/1332534707666493442), [Medium](https://medium.com/decred-es/hablemos-decred-sobre-el-proyecto-y-sobre-el-trabajo-remoto-e5a2510364ae))
 
--  November ([Twitter announcement](), [Youtube]())
+-  December 7th DCR price action tweet ([Twitter announcement](https://twitter.com/Decred_ES/status/1335942039704391680))
 
--  November ([Twitter announcement](), [Youtube]())
-
--  November ([Twitter announcement](), [Youtube]())
+-  December 9th Decred Talent Land Blockchain Challenge final projects and winners ([Twitter announcement](https://twitter.com/Decred_ES/status/1336771446362808320), [Youtube](https://youtu.be/CQTitBVUMMY))
 
 
 **News and mentions:**
@@ -68,7 +71,7 @@
 
 -   November 10th "Next edition of Hablemos Decred with LatAmTech CEO" ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-feature-latamtechs-ceo))
 
--   November 18th "New edition of Hablemos Decred will explore why companies are buying Bitcoin" ([Cointelegraph in Spanishhttps://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-the-topic-of-companies-buying-bitcoin
+-   November 18th "New edition of Hablemos Decred will explore why companies are buying Bitcoin" ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-the-topic-of-companies-buying-bitcoin))
 
 -   November 25th "What are differences between DLTs and cryptocurrencies?" ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/what-are-the-differences-between-dlt-and-cryptocurrencies))
 
@@ -86,15 +89,7 @@
 
 - Continue growing Telegram group for developers [@decredES_devs](https://t.me/decredES_devs)
 
-- Mentoring Decred Talent Blockchain Chellenge 
-
-- Continue with Podcast Decred in Spanish episodes 5, 6, 7 and 8
-
-- Continue with #HablemosDecred 21, 22, 23 and 24 
-
-- Cripto Latin Fest sponsorship 
-
-- Labitconf sponsorship 
+- Cripto Latin Fest Decred keynote on December 12th 
 
 - Final report 
 
@@ -103,4 +98,4 @@
 
 **Financials**
 
-- As of this report the Decred in Spanish activities have used --% of the total proposal budget, or around $----- usd. This monthly expenditure was $----- usd, of which $--- usd were used for contrator hours. This monthly budget represent around --- contractors hours for content business development, content creation, social media management and community organsing. For more information on the previous two proposals reports please visit the [Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/), [Report 4](https://www.reddit.com/r/decred/comments/j9v76j/activities_report_4_decred_en_espa%C3%B1ol_proposal_2/).
+- As of this final report the Decred in Spanish activities have used 94% of the total proposal budget, or around $43,145 usd. This proposal expenditure was divided in 86% for contractors, content creation, design, virtual events, business development, social media management, user support and community organsing; and 14% for marketing expenses. For more information on the previous reports please visit the ([Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/), [Report 4](), and [Report 5](https://github.com/DecredES/Monthly_reports/blob/master/Report_5.md).
