@@ -26,15 +26,6 @@
 
 -  December 10th #HablemosDecred 25 "1 year working in the DAO: 2020 and whats ahead" with Carolina Ibarra, Ana Chavez, Lorena Franco, Pablo Labarta, Tomas Gross and Elian Huesca ([Twitter announcement](https://twitter.com/Decred_ES/status/1336710415410204672), [Youtube](https://youtu.be/ldddE_mNSM4))
 
--  December ([Twitter announcement](), [Youtube]())
-
--  December ([Twitter announcement](), [Youtube]())
-
-
-
-**Videos:**
-
--  November ([Youtube]())
 
 **Social Media Content:**
 
@@ -81,9 +72,6 @@
 
 -   December 9th "Next episode of Hablemos Decred will review the cryptocurrency industry in 2020" ([Cointelegraph in Spanish](https://es.cointelegraph.com/news/next-episode-of-hablemos-decred-will-review-what-happened-in-2020))
 
--   November ([Cointelegraph in Spanish]())
-
--   November ([Cointelegraph in Spanish]())
 
 **Next steps:**
 
@@ -98,4 +86,4 @@
 
 **Financials**
 
-- As of this final report the Decred in Spanish activities have used 94% of the total proposal budget, or around $43,145 usd. This proposal expenditure was divided in 86% for contractors, content creation, design, virtual events, business development, social media management, user support and community organsing; and 14% for marketing expenses. For more information on the previous reports please visit the ([Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/), [Report 4](), and [Report 5](https://github.com/DecredES/Monthly_reports/blob/master/Report_5.md).
+- As of this final report the Decred in Spanish activities have used 94% of the total proposal budget, or around $43,145 usd. This proposal expenditure was divided in 86% for contractors, content creation, design, virtual events, business development, social media management, user support and community organsing; and 14% for marketing expenses. For more information on the previous reports please visit the ([Report 1](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/), [Report 2](https://www.reddit.com/r/decred/comments/i7ue8h/activities_report_decred_en_espa%C3%B1ol_proposal_2/) and [Report 3](https://www.reddit.com/r/decred/comments/ip0uke/activities_report_3_decred_en_espa%C3%B1ol_proposal_2/), [Report 4](), and [Report 5](https://github.com/DecredES/Monthly_reports/blob/master/Report_5.md)).
